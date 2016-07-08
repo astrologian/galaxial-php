@@ -1,0 +1,14 @@
+{
+    "devel": {
+        "server": "localhost",
+        "user": "username",
+        "password": "password",
+        "db": "mydb"
+    },
+    "deploy": {
+        "server": "localhost",
+        "user": "username",
+        "password": "password",
+        "db": "mydb"
+    }
+}

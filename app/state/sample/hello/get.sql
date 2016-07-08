@@ -1,0 +1,1 @@
+select :bar as hello;

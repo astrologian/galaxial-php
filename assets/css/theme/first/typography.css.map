@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACE,QAAM;EACJ,WAAW,EAAE,MAAM",
+"sources": ["../../../../.dev/sass/theme/first/typography.scss"],
+"names": [],
+"file": "typography.css"
+}
